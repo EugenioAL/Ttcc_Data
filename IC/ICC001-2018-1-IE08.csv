@@ -1,0 +1,56 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+167991;Aprovado;CB01;147305;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,78;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;115440;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,16;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147306;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,86;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Nota;CB01;148102;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,84;Reprovado por Nota;2018; 1° Semestre;2;201
+167991;Aprovado;CB01;147307;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,83;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;148511;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,43;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147308;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,48;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147852;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,69;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147309;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,74;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145630;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,21;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147310;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,69;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;149328;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,16;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146511;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,68;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;149327;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,99;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145634;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,3;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;149439;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,85;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;148363;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,49;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Nota;CB01;148609;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0,03;Reprovado por Nota;2018; 1° Semestre;2;201
+167991;Aprovado;CB01;146506;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,65;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145639;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,3;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;148610;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,6;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147311;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,78;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Nota;CB01;149438;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,38;Reprovado por Nota;2018; 1° Semestre;2;201
+167991;Aprovado;CB01;146513;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,21;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Freqüência;CB01;148189;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;;Reprovado por Freqüência;2018; 1° Semestre;3;201
+167991;Aprovado;CB01;146507;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,64;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146510;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,39;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147312;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,78;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146514;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,21;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147313;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,04;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146512;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,39;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;148611;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,45;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147524;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,04;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146515;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,25;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Freqüência;CB01;112602;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2018; 1° Semestre;3;201
+167991;Aprovado;CB01;146509;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146508;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,48;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Nota;CB01;145637;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0,65;Reprovado por Nota;2018; 1° Semestre;2;201
+167991;Reprovado por Freqüência;CB01;73697;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2018; 1° Semestre;3;201
+167991;Aprovado;CB01;145632;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,66;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145631;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,39;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;148510;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,5;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145635;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145640;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,12;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;138774;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147314;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,66;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;147315;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,11;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146516;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,13;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;146517;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,63;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;145636;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,83;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Freqüência;CB01;77023;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2018; 1° Semestre;3;201
+167991;Aprovado;CB01;95038;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,48;Aprovado;2018; 1° Semestre;1;201
+167991;Aprovado;CB01;94377;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,25;Aprovado;2018; 1° Semestre;1;201
+167991;Reprovado por Freqüência;CB01;145638;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2018; 1° Semestre;3;201
+167991;Reprovado por Freqüência;CB01;145633;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2018; 1° Semestre;3;201

@@ -1,0 +1,59 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+87196;Reprovado por Nota;1;103925;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;106109;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,07;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105176;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,02;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Nota;1;105168;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;2,67;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Reprovado por Freqüência;1;102504;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;106782;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,1;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Nota;1;106785;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,18;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;103920;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,09;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Nota;1;105182;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,6;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;102499;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,45;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;103293;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,15;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;102501;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,02;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Nota;1;106112;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;2,55;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;103922;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,33;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;104188;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Freqüência;1;105177;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105180;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,01;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105167;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,13;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;106809;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;104130;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,63;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;103927;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Nota;1;106784;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;2,85;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;102502;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,02;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;103292;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105179;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,05;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;106113;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,05;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;103921;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,49;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;106380;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Freqüência;1;102132;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105174;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;84746;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,53;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105181;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,12;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;106110;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,01;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;102131;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,02;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;106111;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,29;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;103294;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,35;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;103926;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,01;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;105172;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0,22;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Nota;1;103919;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,51;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;36329;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,73;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;102926;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Freqüência;1;44262;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105173;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,32;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;103924;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,09;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Nota;1;103918;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;4,29;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Reprovado por Freqüência;1;106783;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;2,05;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105170;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,62;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;103063;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Reprovado por Nota;1;103923;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;2,87;Reprovado por Nota;2013; 1° Semestre;2;201
+87196;Aprovado;1;105178;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,31;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;104131;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,09;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105166;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,03;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105165;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,78;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;105171;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+87196;Aprovado;1;105175;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,09;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;102500;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,01;Aprovado;2013; 1° Semestre;1;201
+87196;Aprovado;1;105169;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8;Aprovado;2013; 1° Semestre;1;201
+87196;Reprovado por Freqüência;1;107169;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201

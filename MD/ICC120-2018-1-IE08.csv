@@ -1,0 +1,59 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+167975;Aprovado;CB01;147305;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;5,5;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;115440;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,15;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147306;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,34;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;149210;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,08;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;148102;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;5,31;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147307;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,07;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;148511;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,02;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;147308;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;4,62;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;#N/D;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,36;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147852;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,5;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147309;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,35;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145630;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,54;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147310;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;149328;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,93;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146511;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,78;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;149327;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,08;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145634;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;5,09;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;149439;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,57;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;148363;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;1,91;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Reprovado por Nota;CB01;148609;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;146506;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;10;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145639;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,23;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;148610;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,6;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147311;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,48;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;149438;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;5,06;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146513;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,9;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;148189;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;146507;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,48;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146510;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,37;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147312;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,39;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146514;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,54;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147313;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,31;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146512;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,26;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;148611;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,74;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147524;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,71;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146515;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,54;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;112602;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;146509;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,34;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146508;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,04;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;145637;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0,02;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Reprovado por Nota;CB01;73697;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Reprovado por Nota;CB01;75553;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0,98;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Reprovado por Nota;CB01;145632;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;1,8;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;145631;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,15;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;148510;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,12;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145635;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;9,08;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145640;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;5,19;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;138774;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,75;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147314;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;6,74;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;147315;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,23;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146516;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,71;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;146517;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,21;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;145636;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,14;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;77023;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Aprovado;CB01;95038;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;7,98;Aprovado;2018; 1° Semestre;1;201
+167975;Aprovado;CB01;94377;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;8,4;Aprovado;2018; 1° Semestre;1;201
+167975;Reprovado por Nota;CB01;145638;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0;Reprovado por Nota;2018; 1° Semestre;2;201
+167975;Reprovado por Nota;CB01;145633;IE08;Ciência da Computação;ICC120;MATEMÁTICA DISCRETA;;;;;;;;;;;;;;;0,41;Reprovado por Nota;2018; 1° Semestre;2;201

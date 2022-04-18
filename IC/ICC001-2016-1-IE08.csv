@@ -1,0 +1,56 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+137270;Aprovado;CB01;130413;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,23;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130406;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,43;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;129393;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Aprovado;CB01;130409;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,83;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;129247;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,13;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130403;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,73;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;128780;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Aprovado;CB01;130416;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,77;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Nota;CB01;130417;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0,83;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Reprovado por Nota;CB01;129392;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;4,73;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Aprovado;CB01;131338;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;132447;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,7;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130414;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,73;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;129248;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Aprovado;CB01;131754;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,33;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;131998;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,87;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128781;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,37;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130407;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,57;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130415;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,47;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Nota;CB01;131292;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;4,47;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Reprovado por Nota;CB01;130405;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,87;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Aprovado;CB01;131941;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,87;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;130411;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Aprovado;CB01;129249;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,8;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130402;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,97;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128379;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,87;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130418;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,37;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130408;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,77;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;133259;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,77;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;131904;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,2;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130410;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,2;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Nota;CB01;128363;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,57;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Aprovado;CB01;133185;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,37;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;129043;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,33;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128782;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,2;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;131451;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,8;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;129250;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,6;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128378;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,2;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;129307;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,37;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128783;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,23;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;130404;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,43;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;129251;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,23;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;131337;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,43;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Nota;CB01;130412;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,2;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Aprovado;CB01;129044;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,73;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;115057;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Reprovado por Nota;CB01;128784;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;4,63;Reprovado por Nota;2016; 1° Semestre;2;201
+137270;Aprovado;CB01;131755;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,6;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;132953;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,83;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128785;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,43;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128786;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;9,3;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;131999;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,5;Aprovado;2016; 1° Semestre;1;201
+137270;Reprovado por Freqüência;CB01;133025;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+137270;Aprovado;CB01;128920;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,93;Aprovado;2016; 1° Semestre;1;201
+137270;Aprovado;CB01;128879;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,13;Aprovado;2016; 1° Semestre;1;201

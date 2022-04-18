@@ -1,0 +1,59 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+85151;Reprovado por Nota;1;103925;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,17;Reprovado por Nota;2013; 1° Semestre;2;201
+85151;Aprovado;1;106109;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,42;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105176;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,42;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105168;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;102504;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;106782;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,6;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;106785;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,67;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103920;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,04;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Nota;1;105182;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,5;Reprovado por Nota;2013; 1° Semestre;2;201
+85151;Aprovado;1;102499;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,5;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103293;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,75;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;102501;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,83;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;106112;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,17;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;103922;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,9;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;104188;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,67;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Reprovado por Freqüência;1;105177;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;105180;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105167;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,61;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;106809;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,5;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;104130;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;103927;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,5;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;106784;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,8;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;102502;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,59;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;103292;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;105179;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,92;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;106113;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,59;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103921;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;106380;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Reprovado por Freqüência;1;102132;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;105174;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,25;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;84746;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105181;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,25;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;106110;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,25;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;102131;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,63;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;106111;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103294;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103926;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,5;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Nota;1;105172;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,67;Reprovado por Nota;2013; 1° Semestre;2;201
+85151;Aprovado;1;103919;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,83;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;36329;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,5;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;102926;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Reprovado por Freqüência;1;44262;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;105173;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,13;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103924;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,13;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;103918;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,71;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;106783;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,54;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105170;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,63;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;103063;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,09;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;103923;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,59;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105178;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;104131;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,3;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105166;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,71;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105165;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,42;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;105171;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,96;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85151;Aprovado;1;105175;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;10;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;102500;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,13;Aprovado;2013; 1° Semestre;1;201
+85151;Aprovado;1;105169;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,04;Aprovado;2013; 1° Semestre;1;201
+85151;Reprovado por Freqüência;1;107169;IE08;Ciência da Computação;ICC100;FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201

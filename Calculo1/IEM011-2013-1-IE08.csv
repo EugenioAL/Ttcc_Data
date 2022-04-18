@@ -1,0 +1,59 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+85148;Reprovado por Freqüência;17;103925;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,22;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Aprovado;17;106109;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,11;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;105176;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,67;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;105168;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,33;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Freqüência;17;102504;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Aprovado;17;106782;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,05;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;106785;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,67;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Freqüência;17;103920;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Freqüência;17;105182;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Aprovado;17;102499;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,11;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;103293;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,89;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;102501;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;106112;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,22;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;103922;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;6,89;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Freqüência;17;104188;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,22;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Freqüência;17;105177;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Nota;17;105180;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,22;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;105167;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;8,22;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;106809;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;104130;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103927;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;106784;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;102502;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,17;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;103292;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,78;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;105179;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,22;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;106113;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,22;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103921;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Freqüência;17;106380;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Freqüência;17;102132;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Aprovado;17;105174;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;7,55;Aprovado;2013; 1° Semestre;1;201
+85148;Aprovado;17;84746;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;6,5;Aprovado;2013; 1° Semestre;1;201
+85148;Aprovado;17;105181;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;6,55;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;106110;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,78;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;102131;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;106111;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;2;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;103294;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;8,67;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;103926;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;105172;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103919;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;36329;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;8,45;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Freqüência;17;102926;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,45;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Freqüência;17;44262;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,22;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Nota;17;105173;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103924;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,22;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Freqüência;17;103918;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,55;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Freqüência;17;106783;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Reprovado por Nota;17;105170;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103063;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,11;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;103923;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0,11;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;105178;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;8,11;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Nota;17;104131;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;3;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Reprovado por Nota;17;105166;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,45;Reprovado por Nota;2013; 1° Semestre;2;201
+85148;Aprovado;17;105165;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;7,78;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Freqüência;17;105171;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;1,11;Reprovado por Freqüência;2013; 1° Semestre;3;201
+85148;Aprovado;17;105175;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;7,45;Aprovado;2013; 1° Semestre;1;201
+85148;Aprovado;17;102500;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;5,05;Aprovado;2013; 1° Semestre;1;201
+85148;Aprovado;17;105169;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;6,05;Aprovado;2013; 1° Semestre;1;201
+85148;Reprovado por Freqüência;17;107169;IE08;Ciência da Computação;IEM011;CALCULO I;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2013; 1° Semestre;3;201

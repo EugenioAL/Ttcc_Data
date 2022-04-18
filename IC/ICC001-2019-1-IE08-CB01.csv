@@ -1,0 +1,18 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+186546;Aprovado;CB01;154721;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;8,44;Aprovado;2019; 1° Semestre;1;201
+186546;Aprovado;CB01;154726;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,16;Aprovado;2019; 1° Semestre;1;201
+186546;Reprovado por Freqüência;CB01;154080;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,21;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Reprovado por Nota;CB01;154082;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,28;Reprovado por Nota;2019; 1° Semestre;2;201
+186546;Reprovado por Freqüência;CB01;154077;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,71;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Aprovado;CB01;154720;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5,44;Aprovado;2019; 1° Semestre;1;201
+186546;Aprovado;CB01;154719;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;5;Aprovado;2019; 1° Semestre;1;201
+186546;Aprovado;CB01;154076;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,49;Aprovado;2019; 1° Semestre;1;201
+186546;Reprovado por Freqüência;CB01;154725;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,45;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Reprovado por Freqüência;CB01;154078;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Aprovado;CB01;154727;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,06;Aprovado;2019; 1° Semestre;1;201
+186546;Reprovado por Freqüência;CB01;154724;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;1,76;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Reprovado por Freqüência;CB01;154722;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;3,52;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Reprovado por Freqüência;CB01;158107;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;0,35;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186546;Aprovado;CB01;154723;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,39;Aprovado;2019; 1° Semestre;1;201
+186546;Aprovado;CB01;154718;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;7,52;Aprovado;2019; 1° Semestre;1;201
+186546;Aprovado;CB01;154081;IE08;Ciência da Computação;ICC001;INTRODUÇÃO À COMPUTAÇÃO;;;;;;;;;;;;;;;6,71;Aprovado;2019; 1° Semestre;1;201

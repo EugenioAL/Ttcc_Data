@@ -1,0 +1,56 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+186541;Aprovado;CB01;155664;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,9;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;155033;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,2;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;155069;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,12;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;155441;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,77;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154721;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,87;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;154726;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,94;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;131336;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,5;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Aprovado;CB01;156832;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,01;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;156590;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,04;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;154080;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,57;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154082;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,55;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;149856;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Freqüência;CB01;154077;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,08;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;154079;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,18;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154720;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,53;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;141103;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,57;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154719;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,18;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;154076;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,37;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;83501;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,22;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;139593;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,46;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Aprovado;CB01;156656;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,14;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;157920;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,73;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;156655;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,68;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;83996;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,98;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;154725;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,29;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Freqüência;CB01;154078;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;155614;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,56;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154729;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,15;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;68404;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;4,25;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;154371;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,58;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154727;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,17;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;154724;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,93;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Freqüência;CB01;154722;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,92;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Freqüência;CB01;158107;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,12;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;154723;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,85;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;156364;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,38;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;156589;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,82;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154965;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,89;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;156588;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,15;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;155912;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,15;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;154718;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,82;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;156503;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,85;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;155350;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,28;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Freqüência;CB01;155955;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,88;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Aprovado;CB01;154728;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,45;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;155783;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,22;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;155431;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,66;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Freqüência;CB01;155880;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,16;Reprovado por Freqüência;2019; 1° Semestre;3;201
+186541;Reprovado por Nota;CB01;155499;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,3;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;157046;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,54;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Reprovado por Nota;CB01;154081;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,95;Reprovado por Nota;2019; 1° Semestre;2;201
+186541;Aprovado;CB01;155575;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,03;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;155210;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,43;Aprovado;2019; 1° Semestre;1;201
+186541;Aprovado;CB01;155689;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,16;Aprovado;2019; 1° Semestre;1;201
+186541;Reprovado por Nota;CB01;157152;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,67;Reprovado por Nota;2019; 1° Semestre;2;201

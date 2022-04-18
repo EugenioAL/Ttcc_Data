@@ -1,0 +1,56 @@
+ID_TURMA;DESCR_SITUACAO;COD_TURMA;ID_PESSOA;COD_CURSO;NOME_CURSO;COD_ATIV_CURRIC;NOME_ATIV_CURRIC;NOTA1;NUM_FALTAS1;NOTA2;NUM_FALTAS2;NOTA3;NUM_FALTAS3;NOTA4;NUM_FALTAS4;NOTA5;NUM_FALTAS5;NOTA6;NUM_FALTAS6;NOTA7;NUM_FALTAS7;MEDIA_FINAL;DESCR_SITUACAO_1;ANO;DESCR_PERIODO;SITUACAO_ITEM;PERIODO_ITEM
+138253;Aprovado;CB01;130413;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,45;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;130406;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,7;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Freqüência;CB01;129393;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Aprovado;CB01;130409;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,03;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;129247;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,48;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;130403;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,31;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Freqüência;CB01;128780;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,2;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Aprovado;CB01;130416;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,23;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Freqüência;CB01;130417;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,91;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Reprovado por Nota;CB01;129392;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,68;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Freqüência;CB01;131338;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,07;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Aprovado;CB01;132447;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,81;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;130414;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,41;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Freqüência;CB01;129248;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Reprovado por Nota;CB01;131754;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,25;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;131998;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;4,5;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;128781;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,2;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;130407;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,41;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;130415;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;4,1;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Freqüência;CB01;131292;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,93;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Reprovado por Nota;CB01;130405;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,42;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;131941;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;4,55;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;130411;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;129249;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,1;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;130402;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,95;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128379;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,23;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;130418;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;4,02;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;130408;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,93;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;133259;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;1,28;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;131904;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,56;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;130410;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,87;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;128363;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0,39;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Nota;CB01;133185;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2,71;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;129043;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,58;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128782;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;9,27;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;131451;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,13;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;129250;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,79;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128378;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,8;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;129307;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,82;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128783;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,53;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;130404;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,04;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;129251;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,81;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;131337;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,12;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;130412;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,45;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;129044;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,45;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Freqüência;CB01;115057;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Reprovado por Nota;CB01;128784;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;3,46;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Aprovado;CB01;131755;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,02;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;132953;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;5,36;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128785;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;7,33;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128786;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,7;Aprovado;2016; 1° Semestre;1;201
+138253;Reprovado por Nota;CB01;131999;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;2;Reprovado por Nota;2016; 1° Semestre;2;201
+138253;Reprovado por Freqüência;CB01;133025;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;0;Reprovado por Freqüência;2016; 1° Semestre;3;201
+138253;Aprovado;CB01;128920;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;8,1;Aprovado;2016; 1° Semestre;1;201
+138253;Aprovado;CB01;128879;IE08;Ciência da Computação;ICC110;TEXTOS TÉCNICOS EM CIÊNCIA DA COMPUTAÇÃO;;;;;;;;;;;;;;;6,5;Aprovado;2016; 1° Semestre;1;201
